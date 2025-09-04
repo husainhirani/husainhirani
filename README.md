@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Husain. I am an Web / Android Developer and Competitive Programmer.
+I’m Husain. I am a Software Engineer at Google.
 
+<!--
 ### 📫 Connect with me on
 
 <p>
   <a href="https://www.linkedin.com/in/husain-hirani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://www.instagram.com/husainhiranii/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
+-->
 
 ### Competitive Coding Profiles
 - Codeforces: [Husain_hirani](https://codeforces.com/profile/Husain_Hirani)
