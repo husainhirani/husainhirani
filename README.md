@@ -30,4 +30,4 @@ I’m Husain. I am a Software Engineer at Google.
 - Codeforces: [Husain_hirani](https://codeforces.com/profile/Husain_Hirani)
 
 ## &#x1f4c8; GitHub Stats
-![Husain's github stats](https://github-readme-stats.vercel.app/api?username=h-square&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Husain's github stats](https://github-readme-stats.vercel.app/api?username=husainhirani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
